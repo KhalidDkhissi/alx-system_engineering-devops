@@ -1,5 +1,6 @@
 #!/bin/bash
 
-pwd
+echo "Get the path of the current working directory"
+current working directory = $(pwd)
 echo "$current working directory"
 
